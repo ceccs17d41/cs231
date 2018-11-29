@@ -1,6 +1,6 @@
 /* Rithu Maria Jose
      S3 D, Roll No: 41
-     Selection Sort */
+     Sequential Search */
 
 #include <stdio.h>
  
