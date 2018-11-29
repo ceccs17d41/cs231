@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Quick Sort : Non Recursive */
+
 #include <stdio.h>
 
 void swap(int *a, int *b) {
