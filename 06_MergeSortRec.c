@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Merge Sort : Recursive */
+
 #include <stdio.h>
  
 void mergeSort(int [], int, int, int);
