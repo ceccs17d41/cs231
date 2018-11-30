@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41	
+     Implementation of stack using array */
+
 #include <stdio.h>
 
 int stack[100], n=100, top;
