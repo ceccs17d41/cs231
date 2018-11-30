@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Heap Sort */	
+
 #include <stdio.h>
  
 void main()
