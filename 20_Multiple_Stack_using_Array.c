@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Multiple stack using array */
+
 #include <stdio.h>
 #define size 100
 
