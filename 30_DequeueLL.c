@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41	
+     Implementation of dequeue using linked list */
+
 #include <stdio.h>
 #include <stdlib.h>
 
