@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41	
+     Stack : Postfix expression evaluation */
+
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
