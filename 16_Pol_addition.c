@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Polynomila Addition */
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
