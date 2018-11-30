@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Stack using Linked List */
+
 #include <stdio.h>
 #include <stdlib.h>
 
