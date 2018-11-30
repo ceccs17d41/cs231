@@ -1,3 +1,7 @@
+/* Rithu Maria Jose
+     S3 D, Roll No: 41
+     Implementation of circular queue using array*/
+
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
